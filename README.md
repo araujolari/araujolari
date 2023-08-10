@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hey, I'm Larissa Araujo 🤠 </h1>
-  <h3> -🌱 I'm currently at Serratec's Software Residency</h3>
+  <h3> -🌱  I'm currently work as a Frontend</h3>
 </div>
 
 <div align="center">
